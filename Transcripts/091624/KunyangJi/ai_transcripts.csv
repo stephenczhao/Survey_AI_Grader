@@ -1,0 +1,85 @@
+PART 1: General Strategy
+
+SWOT:
+-Strengths: Internal attributes that provide a competitive advantage.
+-Weaknesses: Internal factors that could hinder performance.
+-Opportunities: External factors the organization can exploit.
+-Threats: External factors that could jeopardize the organization's performance.
+
+Porter’s Five Forces:
+-Competitive Rivalry: Intensity of competition among existing firms.
+-Threat of New Entrants: Ease with which new competitors can enter the market.
+-Bargaining Power of Suppliers: The power suppliers have over pricing and supply.
+-Bargaining Power of Buyers: The power customers have to affect pricing and quality.
+-Threat of Substitutes: The likelihood of customers finding a different way of doing what you do.
+
+KPI: KPIs are quantifiable measures used to evaluate the success of an organization, employee, or process in meeting objectives for performance. 
+
+Competitive Advantage VS. Operational Efficiency:
+
+-Competitive Advantage refers to a firm’s ability to outperform its rivals due to unique resources, capabilities, or positioning. It is about doing different things or similar things in a different way to deliver unique value to customers.
+
+-Operational Efficiency involves performing similar activities better than rivals do. It focuses on optimizing processes, reducing waste, and improving productivity to achieve cost advantages but does not necessarily create a unique value proposition.
+
+International Strategy Considerations:
+-Cultural Differences: Understanding and adapting to cultural nuances in marketing, negotiation, and management.
+
+-Regulatory Compliance: Adhering to local laws, regulations, and standards.
+
+-Political Risk: Assessing the stability and political environment of the target market.
+
+-Economic Factors: Considering exchange rates, inflation rates, and economic stability.
+
+-Market Entry Strategy: Choosing between exporting, franchising, joint ventures, or establishing wholly-owned subsidiaries.
+
+
+network effects VS. economics of scale:
+
+-Network Effects: Occur when the value of a product or service increases as more people use it. Common in technology and platform businesses (e.g., social media, marketplaces).
+
+-Economies of Scale: Cost advantages obtained due to the scale of operation, where the cost per unit decreases as the volume of output increases. Applies across various industries, not limited to networks.
+
+
+PART 2: Data Strategy
+
+Business Intelligence (BI): BI involves using data analysis tools and techniques to make informed business decisions. It encompasses the collection, integration, analysis, and presentation of business information.
+-Key Technologies: Data warehousing, reporting tools, dashboards, data visualization software.
+-Relation to Strategy: Helps in performance tracking, trend analysis, and strategic decision-making by providing insights from past and present data.
+
+Big Data: Big Data refers to extremely large datasets that cannot be easily managed or analyzed using traditional databases. It involves processing vast amounts of structured, unstructured, and semi-structured data to extract meaningful insights.
+-Key Technologies: Hadoop, Spark, NoSQL databases, data lakes.
+-Relation to Strategy: Enables predictive analytics, real-time analytics, and uncovering patterns in complex datasets, which can drive innovation and optimize business processes.
+
+Automation: Automation in data strategy involves using technology to perform tasks without human intervention, enhancing efficiency and accuracy in data processing and analysis.
+-Key Technologies: Robotic Process Automation (RPA), machine learning algorithms, AI tools.
+-Relation to Strategy: Reduces costs, improves accuracy, and allows for scaling operations with minimal human input, leading to increased operational efficiency.
+
+Embedded Machine Learning (ML): Embedded ML refers to the integration of machine learning models into existing software applications to make them smarter and more responsive.
+-Key Technologies: TensorFlow Lite, ONNX, edge computing devices.
+-Relation to Strategy: Enables real-time decision-making, personalized customer experiences, and enhanced product capabilities, driving competitive differentiation.
+
+Generative AI: Generative AI models, like GPT and GANs, are capable of generating new data (text, images, etc.) that resembles existing data.
+-Key Technologies: Transformer models, neural networks, deep learning frameworks.
+-Relation to Strategy: Can be used for content creation, product development, customer service automation, and personalization, opening new avenues for business growth.
+
+
+PART 3: Explore how a firm's culture impacts its practice of data science
+
+Corporate Culture and Data Science Success:
+A firm's culture significantly impacts its ability to successfully implement data science projects. Cultures that encourage innovation, data-driven decision-making, and cross-functional collaboration are more likely to succeed.
+
+-Best Cultures for Data Science: Open, transparent, collaborative, and experimentation-friendly cultures that value data as a critical asset.
+
+-Leadership Activities: Leaders need to promote a data-driven mindset, provide resources for data science initiatives, and support continuous learning and development.
+
+-Warning Signs of Cultural Issues: Resistance to change, lack of alignment between data science and business goals, insufficient support from leadership, and lack of collaboration across departments.
+
+
+PART 4: Data Governance
+
+Def: Data Governance involves the management of data availability, usability, integrity, and security within an organization. It establishes policies, procedures, and responsibilities for data management to ensure that data is accurate, consistent, and used appropriately.
+
+-Key Technologies: Data catalogs, data quality tools, metadata management, data lineage tracking.
+-Relation to Strategy: Ensures data integrity and compliance, supports data-driven decision-making, and minimizes risk related to data breaches or misuse.
+
+
